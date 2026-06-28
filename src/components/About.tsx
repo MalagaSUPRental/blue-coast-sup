@@ -43,7 +43,7 @@ export default function About() {
                 <ellipse cx="450" cy="340" rx="120" ry="8" fill="none" stroke="#3DD6D0" strokeWidth="1" opacity="0.15"/>
                 {/* SUP board */}
                 <g transform="translate(230, 200)">
-                  <ellipse cx="70" cy="42" rx="80" ry="12" fill="url(#board)" opacity="0.9" rx="80"/>
+                  <ellipse cx="70" cy="42" rx="80" ry="12" fill="url(#board)" opacity="0.9"/>
                   <path d="M10,40 Q70,-10 130,40 Q70,52 10,40 Z" fill="url(#board)" opacity="0.95"/>
                   <path d="M50,10 Q70,-5 90,10" stroke="white" strokeWidth="2" fill="none" opacity="0.5"/>
                   {/* Person silhouette */}
