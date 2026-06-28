@@ -62,7 +62,7 @@ export const translations: Record<Locale, Record<string, string>> = {
     'pickup.label': 'Getting Your Board',
     'pickup.title': 'Pickup & Delivery',
     'pickup.free.title': 'Free Pickup',
-    'pickup.free.body': 'Collect your board near Hospital Carlos Haya area in Málaga. We\'ll coordinate exact details via Telegram after booking.',
+    'pickup.free.body': 'Collect your board near Hospital Carlos Haya area in Málaga. We will coordinate exact details via Telegram after booking.',
     'pickup.delivery.title': 'Delivery Options',
     'pickup.malaga': 'Málaga beaches',
     'pickup.elpalo': 'El Palo area',
